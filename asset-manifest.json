@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/E-Commerce/static/css/main.717ef3c4.css",
-    "main.js": "/E-Commerce/static/js/main.99c89bb0.js",
+    "main.css": "/E-Commerce/static/css/main.8c417fc0.css",
+    "main.js": "/E-Commerce/static/js/main.766fd943.js",
     "static/media/laptops.png": "/E-Commerce/static/media/laptops.a5a6ab642345b5d38784.png",
     "static/media/slider4.png": "/E-Commerce/static/media/slider4.8049dedb7c458a0534a5.png",
     "static/media/item.png": "/E-Commerce/static/media/item.ddd16597d0c38b8366e1.png",
     "static/media/slider1.png": "/E-Commerce/static/media/slider1.2d6dc5a9c0fd289461ee.png",
-    "static/media/mobile2.png": "/E-Commerce/static/media/mobile2.1b3cf13086e809bb8d7d.png",
-    "static/media/mobile1.png": "/E-Commerce/static/media/mobile1.1997f77f2ce6b9677dc6.png",
     "static/media/mobile.png": "/E-Commerce/static/media/mobile.1c4bc892a60e36742151.png",
     "static/media/labtop.png": "/E-Commerce/static/media/labtop.72427ac57eccb337dd2b.png",
     "static/media/avatar.png": "/E-Commerce/static/media/avatar.f5ed20588df8bb546e2d.png",
     "index.html": "/E-Commerce/index.html",
-    "main.717ef3c4.css.map": "/E-Commerce/static/css/main.717ef3c4.css.map",
-    "main.99c89bb0.js.map": "/E-Commerce/static/js/main.99c89bb0.js.map"
+    "main.8c417fc0.css.map": "/E-Commerce/static/css/main.8c417fc0.css.map",
+    "main.766fd943.js.map": "/E-Commerce/static/js/main.766fd943.js.map"
   },
   "entrypoints": [
-    "static/css/main.717ef3c4.css",
-    "static/js/main.99c89bb0.js"
+    "static/css/main.8c417fc0.css",
+    "static/js/main.766fd943.js"
   ]
 }
